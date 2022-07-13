@@ -1,0 +1,49 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Ana Maria",
+      "apellido": "Perez",
+      "tipodoc": "Cédula de Ciudadanía",
+      "numdoc": "987654321",
+      "foto": "https://www.eltiempo.com/files/article_content/files/crop/uploads/2020/09/03/5f51bcadc5cf8.r_1599194976129.0-13-429-335.jpeg",
+      "perfil": "Inteligente, aplicada y responsable"
+    },
+    {
+      "id": 4,
+      "nombre": "Mario",
+      "apellido": "Cabrera",
+      "foto": "https://modaellos.com//wp-content/uploads/2017/11/cortes-tipo-rostro-ovalado-istock.jpg",
+      "perfil": "Ordenado, Proactivo, innovador",
+      "tipodoc": "Cédula de Ciudadanía",
+      "numdoc": "12345"
+    },
+    {
+      "id": 5,
+      "nombre": "Diego",
+      "apellido": "Gomez",
+      "foto": "https://static2.abc.es/media/ciencia/2019/01/17/AdobeStock_221150952-U30834880027PMF--620x349@abc.jpg",
+      "perfil": "Responsable, honesto, dedicado",
+      "tipodoc": "Tarjeta de Identidad",
+      "numdoc": "102358971"
+    },
+    {
+      "id": 6,
+      "nombre": "Heyde",
+      "apellido": "Pinilla",
+      "foto": "https://portalempresarial.org/wp-content/uploads/2020/06/mujer-exitosa-780x470.jpg",
+      "perfil": "Responsable, Honesta y Trabajadora",
+      "tipodoc": "Cédula de Ciudadanía",
+      "numdoc": "123456890"
+    },
+    {
+      "id": 7,
+      "nombre": "Jennifer",
+      "apellido": "Fajardo",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjSMRpqySkNVOHQUSjixHIWmdmuPZI0Amv5Q&usqp=CAU",
+      "perfil": "fxgjckhvjlohkñok{p",
+      "tipodoc": "Cédula de Ciudadanía",
+      "numdoc": "12396532"
+    }
+  ]
+}
